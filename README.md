@@ -1,0 +1,1 @@
+A personalized movie recommendation engine built using the MovieLens 20M dataset. This project applies machine learning algorithms to suggest movies to users based on their preferences and past ratings.
